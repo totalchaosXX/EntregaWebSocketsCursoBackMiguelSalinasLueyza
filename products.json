@@ -1,0 +1,452 @@
+[
+	{
+		"id": 0,
+		"title": "Polera Fred Perry",
+		"description": "Manga corta",
+		"price": 45000,
+		"thumbnail": "www.nada.cl/asdgasdas",
+		"code": "fp001",
+		"stock": 33
+	},
+	{
+		"id": 1,
+		"title": "Polera Fred Perry",
+		"description": "Manga Larga",
+		"price": 80000,
+		"thumbnail": "www.nada.cl/asdgasdas",
+		"code": "fp002",
+		"stock": 80
+	},
+	{
+		"id": 0,
+		"title": "Polera Fred Perry",
+		"description": "Manga corta",
+		"price": 45000,
+		"thumbnail": "www.nada.cl/asdgasdas",
+		"code": "fp001",
+		"stock": 33
+	},
+	{
+		"id": 1,
+		"title": "Polera Fred Perry",
+		"description": "Manga corta",
+		"price": 78000,
+		"thumbnail": "www.nada.cl/asdgasdas",
+		"code": "fp002",
+		"stock": 60
+	},
+	{
+		"id": 0,
+		"title": "Polera Fred Perry",
+		"description": "Manga corta",
+		"price": 45000,
+		"thumbnail": "www.nada.cl/asdgasdas",
+		"code": "fp001",
+		"stock": 33
+	},
+	{
+		"id": 1,
+		"title": "Polera Fred Perry",
+		"description": "Manga corta",
+		"price": 78000,
+		"thumbnail": "www.nada.cl/asdgasdas",
+		"code": "fp002",
+		"stock": 60
+	},
+	{
+		"id": 0,
+		"title": "Polera Fred Perry",
+		"description": "Manga corta",
+		"price": 45000,
+		"thumbnail": "www.nada.cl/asdgasdas",
+		"code": "fp001",
+		"stock": 33
+	},
+	{
+		"id": 1,
+		"title": "Polera Fred Perry",
+		"description": "Manga corta",
+		"price": 78000,
+		"thumbnail": "www.nada.cl/asdgasdas",
+		"code": "fp002",
+		"stock": 60
+	},
+	{
+		"id": 0,
+		"title": "Polera Fred Perry",
+		"description": "Manga corta",
+		"price": 45000,
+		"thumbnail": "www.nada.cl/asdgasdas",
+		"code": "fp001",
+		"stock": 33
+	},
+	{
+		"id": 1,
+		"title": "Polera Fred Perry",
+		"description": "Manga corta",
+		"price": 78000,
+		"thumbnail": "www.nada.cl/asdgasdas",
+		"code": "fp002",
+		"stock": 60
+	},
+	{
+		"id": 0,
+		"title": "Polera Fred Perry",
+		"description": "Manga corta",
+		"price": 45000,
+		"thumbnail": "www.nada.cl/asdgasdas",
+		"code": "fp001",
+		"stock": 33
+	},
+	{
+		"id": 1,
+		"title": "Polera Fred Perry",
+		"description": "Manga corta",
+		"price": 78000,
+		"thumbnail": "www.nada.cl/asdgasdas",
+		"code": "fp002",
+		"stock": 60
+	},
+	{
+		"id": 0,
+		"title": "Polera Fred Perry",
+		"description": "Manga corta",
+		"price": 45000,
+		"thumbnail": "www.nada.cl/asdgasdas",
+		"code": "fp001",
+		"stock": 33
+	},
+	{
+		"id": 1,
+		"title": "Polera Fred Perry",
+		"description": "Manga corta",
+		"price": 78000,
+		"thumbnail": "www.nada.cl/asdgasdas",
+		"code": "fp002",
+		"stock": 60
+	},
+	{
+		"id": 0,
+		"title": "Polera Fred Perry",
+		"description": "Manga corta",
+		"price": 45000,
+		"thumbnail": "www.nada.cl/asdgasdas",
+		"code": "fp001",
+		"stock": 33
+	},
+	{
+		"id": 1,
+		"title": "Polera Fred Perry",
+		"description": "Manga corta",
+		"price": 78000,
+		"thumbnail": "www.nada.cl/asdgasdas",
+		"code": "fp002",
+		"stock": 60
+	},
+	{
+		"id": 0,
+		"title": "Polera Fred Perry",
+		"description": "Manga corta",
+		"price": 45000,
+		"thumbnail": "www.nada.cl/asdgasdas",
+		"code": "fp001",
+		"stock": 33
+	},
+	{
+		"id": 1,
+		"title": "Polera Fred Perry",
+		"description": "Manga corta",
+		"price": 78000,
+		"thumbnail": "www.nada.cl/asdgasdas",
+		"code": "fp002",
+		"stock": 60
+	},
+	{
+		"id": 0,
+		"title": "Polera Fred Perry",
+		"description": "Manga corta",
+		"price": 45000,
+		"thumbnail": "www.nada.cl/asdgasdas",
+		"code": "fp001",
+		"stock": 33
+	},
+	{
+		"id": 1,
+		"title": "Polera Fred Perry",
+		"description": "Manga corta",
+		"price": 78000,
+		"thumbnail": "www.nada.cl/asdgasdas",
+		"code": "fp002",
+		"stock": 60
+	},
+	{
+		"id": 0,
+		"title": "Polera Fred Perry",
+		"description": "Manga corta",
+		"price": 45000,
+		"thumbnail": "www.nada.cl/asdgasdas",
+		"code": "fp001",
+		"stock": 33
+	},
+	{
+		"id": 1,
+		"title": "Polera Fred Perry",
+		"description": "Manga corta",
+		"price": 78000,
+		"thumbnail": "www.nada.cl/asdgasdas",
+		"code": "fp002",
+		"stock": 60
+	},
+	{
+		"id": 0,
+		"title": "Polera Fred Perry",
+		"description": "Manga corta",
+		"price": 45000,
+		"thumbnail": "www.nada.cl/asdgasdas",
+		"code": "fp001",
+		"stock": 33
+	},
+	{
+		"id": 1,
+		"title": "Polera Fred Perry",
+		"description": "Manga corta",
+		"price": 78000,
+		"thumbnail": "www.nada.cl/asdgasdas",
+		"code": "fp002",
+		"stock": 60
+	},
+	{
+		"id": 0,
+		"title": "Polera Fred Perry",
+		"description": "Manga corta",
+		"price": 45000,
+		"thumbnail": "www.nada.cl/asdgasdas",
+		"code": "fp001",
+		"stock": 33
+	},
+	{
+		"id": 1,
+		"title": "Polera Fred Perry",
+		"description": "Manga corta",
+		"price": 78000,
+		"thumbnail": "www.nada.cl/asdgasdas",
+		"code": "fp002",
+		"stock": 60
+	},
+	{
+		"id": 0,
+		"title": "Polera Fred Perry",
+		"description": "Manga corta",
+		"price": 45000,
+		"thumbnail": "www.nada.cl/asdgasdas",
+		"code": "fp001",
+		"stock": 33
+	},
+	{
+		"id": 1,
+		"title": "Polera Fred Perry",
+		"description": "Manga corta",
+		"price": 78000,
+		"thumbnail": "www.nada.cl/asdgasdas",
+		"code": "fp002",
+		"stock": 60
+	},
+	{
+		"id": 0,
+		"title": "Polera Fred Perry",
+		"description": "Manga corta",
+		"price": 45000,
+		"thumbnail": "www.nada.cl/asdgasdas",
+		"code": "fp001",
+		"stock": 33
+	},
+	{
+		"id": 1,
+		"title": "Polera Fred Perry",
+		"description": "Manga corta",
+		"price": 78000,
+		"thumbnail": "www.nada.cl/asdgasdas",
+		"code": "fp002",
+		"stock": 60
+	},
+	{
+		"id": 0,
+		"title": "Polera Fred Perry",
+		"description": "Manga corta",
+		"price": 45000,
+		"thumbnail": "www.nada.cl/asdgasdas",
+		"code": "fp001",
+		"stock": 33
+	},
+	{
+		"id": 1,
+		"title": "Polera Fred Perry",
+		"description": "Manga corta",
+		"price": 78000,
+		"thumbnail": "www.nada.cl/asdgasdas",
+		"code": "fp002",
+		"stock": 60
+	},
+	{
+		"id": 0,
+		"title": "Polera Fred Perry",
+		"description": "Manga corta",
+		"price": 45000,
+		"thumbnail": "www.nada.cl/asdgasdas",
+		"code": "fp001",
+		"stock": 33
+	},
+	{
+		"id": 1,
+		"title": "Polera Fred Perry",
+		"description": "Manga corta",
+		"price": 78000,
+		"thumbnail": "www.nada.cl/asdgasdas",
+		"code": "fp002",
+		"stock": 60
+	},
+	{
+		"id": 0,
+		"title": "Polera Fred Perry",
+		"description": "Manga corta",
+		"price": 45000,
+		"thumbnail": "www.nada.cl/asdgasdas",
+		"code": "fp001",
+		"stock": 33
+	},
+	{
+		"id": 1,
+		"title": "Polera Fred Perry",
+		"description": "Manga corta",
+		"price": 78000,
+		"thumbnail": "www.nada.cl/asdgasdas",
+		"code": "fp002",
+		"stock": 60
+	},
+	{
+		"id": 0,
+		"title": "Polera Fred Perry",
+		"description": "Manga corta",
+		"price": 45000,
+		"thumbnail": "www.nada.cl/asdgasdas",
+		"code": "fp001",
+		"stock": 33
+	},
+	{
+		"id": 1,
+		"title": "Polera Fred Perry",
+		"description": "Manga corta",
+		"price": 78000,
+		"thumbnail": "www.nada.cl/asdgasdas",
+		"code": "fp002",
+		"stock": 60
+	},
+	{
+		"id": 0,
+		"title": "Polera Fred Perry",
+		"description": "Manga corta",
+		"price": 45000,
+		"thumbnail": "www.nada.cl/asdgasdas",
+		"code": "fp001",
+		"stock": 33
+	},
+	{
+		"id": 1,
+		"title": "Polera Fred Perry",
+		"description": "Manga corta",
+		"price": 78000,
+		"thumbnail": "www.nada.cl/asdgasdas",
+		"code": "fp002",
+		"stock": 60
+	},
+	{
+		"id": 0,
+		"title": "Polera Fred Perry",
+		"description": "Manga corta",
+		"price": 45000,
+		"thumbnail": "www.nada.cl/asdgasdas",
+		"code": "fp001",
+		"stock": 33
+	},
+	{
+		"id": 1,
+		"title": "Polera Fred Perry",
+		"description": "Manga corta",
+		"price": 78000,
+		"thumbnail": "www.nada.cl/asdgasdas",
+		"code": "fp002",
+		"stock": 60
+	},
+	{
+		"id": 0,
+		"title": "Polera Fred Perry",
+		"description": "Manga corta",
+		"price": 45000,
+		"thumbnail": "www.nada.cl/asdgasdas",
+		"code": "fp001",
+		"stock": 33
+	},
+	{
+		"id": 1,
+		"title": "Polera Fred Perry",
+		"description": "Manga corta",
+		"price": 78000,
+		"thumbnail": "www.nada.cl/asdgasdas",
+		"code": "fp002",
+		"stock": 60
+	},
+	{
+		"id": 0,
+		"title": "Polera Fred Perry",
+		"description": "Manga corta",
+		"price": 45000,
+		"thumbnail": "www.nada.cl/asdgasdas",
+		"code": "fp001",
+		"stock": 33
+	},
+	{
+		"id": 1,
+		"title": "Polera Fred Perry",
+		"description": "Manga corta",
+		"price": 78000,
+		"thumbnail": "www.nada.cl/asdgasdas",
+		"code": "fp002",
+		"stock": 60
+	},
+	{
+		"id": 0,
+		"title": "Polera Fred Perry",
+		"description": "Manga corta",
+		"price": 45000,
+		"thumbnail": "www.nada.cl/asdgasdas",
+		"code": "fp001",
+		"stock": 33
+	},
+	{
+		"id": 1,
+		"title": "Polera Fred Perry",
+		"description": "Manga corta",
+		"price": 78000,
+		"thumbnail": "www.nada.cl/asdgasdas",
+		"code": "fp002",
+		"stock": 60
+	},
+	{
+		"id": 0,
+		"title": "Polera Fred Perry",
+		"description": "Manga corta",
+		"price": 45000,
+		"thumbnail": "www.nada.cl/asdgasdas",
+		"code": "fp001",
+		"stock": 33
+	},
+	{
+		"id": 1,
+		"title": "Polera Fred Perry",
+		"description": "Manga corta",
+		"price": 78000,
+		"thumbnail": "www.nada.cl/asdgasdas",
+		"code": "fp002",
+		"stock": 60
+	}
+]
